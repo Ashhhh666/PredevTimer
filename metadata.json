@@ -2,7 +2,6 @@
   "name": "PredevTimer",
   "author": "ashley",
   "entry": "index.js",
-  "version": "1.0.0",
-  "description": "Simple Predev Timer",
-  "requires": ["PogData"]
+  "version": "1.0.1",
+  "description": "Simple Predev Timer /predevtimer for commands"
 }
